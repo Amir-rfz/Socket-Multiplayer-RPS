@@ -6,7 +6,7 @@ A C++ implementation of Rock-Paper-Scissors using both TCP (for initial handshak
 ## Design Diagram
 Below is the high-level architecture of the server–subserver–client interaction:
 
-![Design Diagram](Design\design.png)
+![Design Diagram](Design/design.png)
 
 ## Key Features
 
